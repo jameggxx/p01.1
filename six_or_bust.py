@@ -27,5 +27,10 @@ def run_tests():
 
 # Edit this function:
 def gone_bust(n):
+    if n == 6:
+        print("pheww!")
+    else:
+        print("Help! Help!")
+        
 
 
